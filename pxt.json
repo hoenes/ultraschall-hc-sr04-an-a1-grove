@@ -1,0 +1,22 @@
+{
+    "name": "Ultraschall-HC-SR04-an-A1-Grove",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-oled-ssd1306": "github:mkleinsb/pxt-oled-ssd1306#v0.0.5",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
